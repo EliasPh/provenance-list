@@ -82,3 +82,7 @@ This is a list of german databases for provenance research
 | DRK-Suchdienst                                                                                                                                                                 | https://www.drk-suchdienst.de/de/suchanfragen                                                                                                                                                                                       |
 | Nationalfonds der Republik Österreich für Opfer des Nationalsozialismus: Findbuch                                                                                              | https://www.findbuch.at/de/                                                                                                                                                                                                         |
 | Archiv der sozialen Demokratie/Friedrich-Ebert-Stiftung (Bestand mit Daten NS-verfolgter Sozialdemokraten und Angehöriger der SPD/USPD nahestehenden Organisationen (ASB usw.) | https://www.fes.de/archiv-der-sozialen-demokratie/                                                                                                                                                                                  |
+
+
+
+https://nsraubgut.slub-dresden.de/ns-raubgut/recherche/
