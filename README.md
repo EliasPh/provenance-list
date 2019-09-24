@@ -14,10 +14,10 @@ DZK-Portal Projektergebnisse|	https://provenienzforschung.commsy.net/commsy.php?
 |UB Leipzig |	http://nsraubgut.ub.uni-leipzig.de/content/below/index.xml |
 |Looted Cultural Assets |	http://lootedculturalassets.de/index.php/Browse/removeCriteria/facet/entity_facet/id/2934 |
 |collective access - Datenbank der Kommission für Provenienzforschung (AT)  |	http://provenienz.collectiveaccess.de/index.php/system/Auth/DoLogin  |
-|Adressbücher	Berlin: https://www.zlb.de/besondere-angebote/berliner-adressbuecher.html
-|sächsische Städte: http://adressbuecher.sachsendigital.de/startseite/ |
-|Wien: https://www.digital.wienbibliothek.at/wbrobv/periodical/structure/5311 |
-|Central Database of Shoah Victims Names (Yad Vashem)	http://yvng.yadvashem.org/ |
+|Adressbücher	Berlin: | https://www.zlb.de/besondere-angebote/berliner-adressbuecher.html
+|sächsische Städte: | http://adressbuecher.sachsendigital.de/startseite/ |
+|Wien: | https://www.digital.wienbibliothek.at/wbrobv/periodical/structure/5311 |
+|Central Database of Shoah Victims Names (Yad Vashem) |	http://yvng.yadvashem.org/ |
 |Gedenkbuch des Bundesarchivs für die Opfer der nationalsozialistischen Judenverfolgung in Deutschland	 | https://www.bundesarchiv.de/gedenkbuch/ |
 |Wbis |	http://db.saur.de/WBIS/welcome.jsf
 |Stolpersteine | |	
@@ -25,7 +25,7 @@ DZK-Portal Projektergebnisse|	https://provenienzforschung.commsy.net/commsy.php?
 |Kalliope |	http://kalliope.staatsbibliothek-berlin.de/de/index.html |
 |Holocaust.cz |	http://www.holocaust.cz/de/opferdatenbank/ |
 |Frits Lugt |	http://www.marquesdecollections.fr/ |
-|Fondation Custodia	hier noch rund 2500 Sammlerstempel vorhanden, die noch nicht über die Lugt-Datenbank öffentlich recherchierbar sind; | |
+|Fondation Custodia	hier noch   rund 2500 Sammlerstempel vorhanden, die noch nicht   über die Lugt-Datenbank öffentlich   recherchierbar sind; | |
 |GBV-Provenienzmerkmale |	http://provenienz.gbv.de/Kategorie:Provenienzmerkmal |
 |Provenienzwiki |	https://provenienz.gbv.de/Hauptseite |
 |Dt. Exlibris-Gesellschaft / Gesamtarchiv |	http://www.exlibris-deg.de/content/archive/ |
@@ -35,7 +35,7 @@ DZK-Portal Projektergebnisse|	https://provenienzforschung.commsy.net/commsy.php?
 |ITS DB/Archiv  |	https://www.its-arolsen.org/  |
 |Wiedergutmachtungsakten-Datenbank, Landesarchiv Berlin  |	http://wga-datenbank.de/de/startseite.html  |
 |Mailingliste Provenienz  |	https://dlist.server.uni-frankfurt.de/mailman/listinfo/provenienz  |
-|Die Ausbürgerung deutscher Staatsangehöriger 1933 - 45 nach den im Reichsanzeiger veröffentlichten Listen  |	http://katalogbeta.slub-dresden.de/id/0000678629/#detail  |
+|Die Ausbürgerung deutscher Staatsangehöriger 1933 - 45   nach den im Reichsanzeiger veröffentlichten Listen  |	http://katalogbeta.slub-dresden.de/id/0000678629/#detail  |
 |Getty Provenance Index® Databases  |	http://www.getty.edu/research/tools/provenance/search.html  |
 |Biographische DB - "Lexikon ostdeutscher Biographien" und "Deutsche Kommunisten (1918-1945)  |	https://www.bundesstiftung-aufarbeitung.de/wer-war-wer-in-der-ddr-%2363%3B-1424.html  |
 genealogy.net	http://wiki-de.genealogy.net/Portal:Datenbanken  |
@@ -47,11 +47,11 @@ genealogy.net	http://wiki-de.genealogy.net/Portal:Datenbanken  |
 |bookstamps from looted libraries (Offenbach Archival Depot) |	https://www.flickr.com/photos/65703354@N08/albums/with/72157631456858474 |
 |Auswandererlisten (Passanger Search) |	https://www.libertyellisfoundation.org/passenger |
 |Deutscher Reichsanzeiger und Preußischer Staatsanzeiger |	https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/
-|Freiheitskampf - Dresdner Tageszeitung der NSDAP für den Gau Sachsen (1930–1945) |	http://www.hait.tu-dresden.de/ext/bibliothek-der-freiheitskampf.asp |
+|Freiheitskampf - Dresdner Tageszeitung der   NSDAP für den Gau Sachsen (1930–1945) |	http://www.hait.tu-dresden.de/ext/bibliothek-der-freiheitskampf.asp |
 |ANNO – österreichische Tageszeitungen Online |	http://anno.onb.ac.at/ |
-|Enteignete und expatriierte Personen 1933-1945 |	http://www.kinematographie.de/BENAMEN.HTM; | bei Treffer Weiterrecherche in Michael Hepp (Hg.), Die Ausbürgerung deutscher Staatsangehöriger 1933-45 nach den im Reichsanzeiger veröffentlichten Listen. Band 1-3, München 1985-1988. |
+|Enteignete und expatriierte Personen 1933-1945 |	http://www.kinematographie.de/BENAMEN.HTM; | bei Treffer Weiterrecherche in Michael Hepp (Hg.), Die Ausbürgerung deutscher   Staatsangehöriger 1933-45 nach den im Reichsanzeiger   veröffentlichten Listen. Band 1-3, München 1985-1988. |
 |Handbook on Judaica Provenance Research: Ceremonial Objects 	http://art-69bd.kxcdn.com/wp-content/uploads//2018/02/Judaica-Handbook-2.20.2018.pdf
-|Online-Edition der Karteien zum sogenannten Zentraldepot für beschlagnahmte Sammlungen in Wien	https://www.zdk-online.org/
+|Online-Edition der Karteien zum sogenannten Zentraldepot für   beschlagnahmte Sammlungen in Wien	https://www.zdk-online.org/
 |Datenbank zum Central Collecting Point München	https://www.dhm.de/datenbank/ccp/dhm_ccp.php?seite=9
 |Datenbank zum Sonderauftrag Linz	https://www.dhm.de/datenbank/linzdb/
 |Datenbank zur Kunstsammlung Hermann Görings	https://www.dhm.de/datenbank/goering/dhm_goering.php?seite=9
